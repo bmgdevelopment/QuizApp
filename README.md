@@ -3,9 +3,9 @@ This quiz, Animation Movie BFF is set up for user friendly usage.
 The questions are simple, and according to the love of animation movies, the quiz should be a breeze.
 
 
-(Outline but not Exact) Back of Napkin info:
+Back of Napkin info:
 ------------------------------------------------------------
-The game is "Animation Movie Bffs"
+(Outline but not Exact) The game is "Animation Movie Bffs"
 
 First screen: Title "Know these Animation Movie Bffs?" then the "play game!" button
 Next screen: Question ? of 5, then the question and the four options for answers. The submit button is at the bottom. 
